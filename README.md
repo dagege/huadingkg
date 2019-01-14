@@ -16,6 +16,6 @@
   <p>If you have any question, please contact us: shengming@tsinghua.edu.cn</p>
   
   <h1>Disclaimer</h1>
-  <p>The knowledge graphs are for research purpose only.</p>
+  <p>This knowledge graph is for research purpose only.</p>
 </body>
 </html>
