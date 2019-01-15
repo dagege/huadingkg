@@ -12,7 +12,7 @@
   
   <h1>Knowledge Graph Download</h1>
   <table>
-    <th><td>No</td><td>Name</td><td>Description</td><td>File Name</td><td>Size (compressed/original)</td></th>
+    <th><th>No</th><td>Name</td><td>Description</td><td>File Name</td><td>Size (compressed/original)</td></th>
 	<tr>
 	  <td>1</td>
 	  <td>Health concept knowledge graph</td>
