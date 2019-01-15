@@ -12,7 +12,7 @@
   
   <h1>Knowledge Graph Download</h1>
   <table>
-    <th><th>No</th><td>Name</td><td>Description</td><td>File Name</td><td>Size (compressed/original)</td></th>
+    <tr><td>No</td><td>Name</td><td>Description</td><td>File Name</td><td>Size (compressed/original)</td></tr>
 	<tr>
 	  <td>1</td>
 	  <td>Health concept knowledge graph</td>
@@ -32,7 +32,7 @@
 	  <td>MIMIC-III instance knowledge graph</td>
 	  <td>From MIMIC-III dataset</td>
 	  <td><a href="http://180.76.145.135:8888/fu/filedownload?fileID=f0367a7e4fcb4c23a694b9ff5ca88005">Mimic3KG_2019-01-15.7z</a></td>
-	  <td></td>
+	  <td>61M/838M</td>
 	</tr>
 	<tr>
 	  <td>4</td>
