@@ -62,5 +62,7 @@
   
   <h1>Disclaimer</h1>
   <p>The knowledge graphs are for research purpose only.</p>
+  
+  [![HitCount](http://hits.dwyl.io/dagege/dagege/huadingkg.svg)](http://hits.dwyl.io/dagege/dagege/huadingkg)
 </body>
 </html>
