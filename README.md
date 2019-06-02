@@ -63,6 +63,6 @@
   <h1>Disclaimer</h1>
   <p>The knowledge graphs are for research purpose only.</p>
   
-  <a hre="http://180.76.145.135/west/">Web and Software R&D Center, RIIT, Tsinghua University</a>
+  <a href="http://180.76.145.135/west/">Web and Software R&D Center, RIIT, Tsinghua University</a>
 </body>
 </html>
